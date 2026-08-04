@@ -71,13 +71,13 @@
     "@emnapi/core": "^1.11.3",
     "@emnapi/runtime": "^1.11.3",
     "@emnapi/wasi-threads": "^2.0.1",
-    "@napi-rs/wasm-runtime": "^1.1.6",
+    "@napi-rs/wasm-runtime": "^1.2.2",
     "@tailwindcss/vite": "^4.3.3",
     "@types/better-sqlite3": "^7.6.12",
-    "@types/react": "^19.2.17",
-    "@types/react-dom": "^19.0.0",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
     "@types/uuid": "^11.0.0",
-    "@vitejs/plugin-react": "^6.0.4",
+    "@vitejs/plugin-react": "^6.0.5",
     "@tybys/wasm-util": "^0.10.3",
     "drizzle-kit": "^0.31.10",
     "electron": "^41.10.3",
@@ -85,7 +85,7 @@
     "electron-vite": "^6.0.0-beta.1",
     "tailwindcss": "^4.1.0",
     "typescript": "^6.0.3",
-    "vite": "^8.1.5"
+    "vite": "^8.2.0"
   },
   "overrides": {
     "@emnapi/core": "$@emnapi/core",
