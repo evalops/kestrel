@@ -55,7 +55,7 @@
     "framer-motion": "^13.1.1",
     "lucide-react": "^1.37.0",
     "mobx": "^6.16.1",
-    "mobx-react-lite": "^4.1.1",
+    "mobx-react-lite": "^5.0.3",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
     "react-markdown": "^10.1.0",
